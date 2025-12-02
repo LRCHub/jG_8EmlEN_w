@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラブドランカー - Love Drunker",
+  "base_artist": "BAK",
+  "createdAt": "2025-12-02T09:40:33.309617Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラブドランカー - Love Drunker",
+      "artist": "BAK",
+      "has_synced": false,
+      "path": "select/pl_01_ラブドランカー_-_Love_Drunker_BAK.txt"
+    }
+  ]
+}
